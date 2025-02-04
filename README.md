@@ -6,7 +6,8 @@ A **Random Password Generator** is an essential tool for creating strong, unpred
 
 ## Why Strong Passwords Matter?
 
-With the increasing number of cyber threats, weak passwords are one of the easiest vulnerabilities for hackers to exploit. Strong passwords:
+With the increasing number of cyber threats, weak passwords are one of the easiest vulnerabilities for hackers to exploit. 
+Strong passwords:
 - Reduce the risk of brute-force attacks.
 - Protect personal and financial information.
 - Ensure security for sensitive data.
