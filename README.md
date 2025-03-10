@@ -1,5 +1,5 @@
 # Random Password Generator 
-        
+         
 ## Overview 
 
 A **Random Password Generator** is an essential tool for creating strong, unpredictable passwords that enhance security for online accounts, applications, and systems. This project is designed to generate secure passwords using a combination of uppercase and lowercase letters, digits, and special characters. 
